@@ -1,0 +1,60 @@
+{
+  "notes": [
+    {
+      "id": 1,
+      "firstName": "Emilia",
+      "lastName": "White",
+      "phone": "237684",
+      "role": "Teacher",
+      "message": "Your cool Teacher"
+    },
+    {
+      "id": 2,
+      "firstName": "Fuh",
+      "lastName": "Brown",
+      "phone": "7852389",
+      "role": "Student",
+      "message": "Your excellent student"
+    },
+    {
+      "id": 3,
+      "firstName": "Suh",
+      "lastName": "Blue",
+      "phone": "987234",
+      "role": "Principal",
+      "message": "see you principal!"
+    },
+    {
+      "id": 4,
+      "firstName": "Ngwa",
+      "lastName": "Black",
+      "phone": "6532871",
+      "role": "Teacher",
+      "message": "BRYF!"
+    },
+    {
+      "firstName": "Suh",
+      "lastName": "Boudouin Fuh",
+      "phone": "+358413673142",
+      "role": "projectOwner",
+      "message": "What is wrong?",
+      "id": 5
+    },
+    {
+      "firstName": "Atabonglefac Emilia",
+      "lastName": "Nkemasong",
+      "phone": "23456776",
+      "role": "designer",
+      "message": "Really whats up",
+      "id": 6
+    },
+    {
+      "firstName": "ambe",
+      "lastName": "ngum",
+      "phone": "23768",
+      "role": "developer",
+      "message": "whiekth",
+      "id": 7
+    }
+  ]
+}

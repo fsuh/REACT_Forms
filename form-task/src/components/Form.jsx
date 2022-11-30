@@ -2,26 +2,26 @@ import React from 'react';
 import Input from './Input';
 import Label from './Label';
 
-function Form (props){
+function Form ({onChange, submit}){
     return(
-        <form onChange={props.onChange} onSubmit={props.submit}>
+        <form onChange={onChange} onSubmit={submit}>
             <Label 
-                name="fName"
+                name="firstName"
                 children="First Name"
             />
             <Input 
                 type="text"
                 placeholder="Enter your First name"
-                name="fName"
+                name="firstName"
             />
             <Label 
-                name="lName"
+                name="lastName"
                 children="Last Name"
             />
             <Input 
                 type="text"
                 placeholder='Enter your Last Name'
-                name='lName'
+                name='lastName'
             />
             <Label 
                 name="phone"

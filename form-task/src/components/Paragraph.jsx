@@ -1,9 +1,9 @@
 import React from 'react'
 
-function Paragraph(props) {
+function Paragraph({name, children}) {
   return (
     <div>
-        <p>{props.children} {props.name}</p>
+        <p>{children} {name}</p>
     </div>
   )
 }

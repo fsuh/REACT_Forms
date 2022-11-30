@@ -1,9 +1,9 @@
 import React from 'react'
 
-function Label(props) {
+function Label({name, children}) {
   return (
     <div className='formLabels'>
-    <label htmlFor={props.name}>{props.children}
+    <label htmlFor={name}>{children}
     </label>
 
     </div>
